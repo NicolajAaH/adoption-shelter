@@ -1,7 +1,5 @@
 # Assignment 2: Pet Shelter
-Assignment used for the course 'Web Technologies' at SDU.
-
-In the previous assignment, you created a minimal version of *itslearning*, where you learned how to build your own web application using MVC. In this application, you will implement authentication and authorization features in another application: a pet shelter board.
+Assignment used for the course 'Web Technologies' at SDU. Developed using Laravel and Blade. It is developed using MVC pattern.
 
 The pet shelter board is an application where registered users can post pets they are giving in for adoption. Moreover, registered users can also adopt pets posted by other users.
 
